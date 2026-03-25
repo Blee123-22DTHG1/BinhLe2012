@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Binh (Le Binh)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Backend%20+%20Game%20+%20AI&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Banner" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-.NET%20%26%20Spring%20Boot-blue?style=flat-square&logo=dotnet" alt="Backend" />
@@ -7,7 +10,9 @@
 </p>
 
 💻 **Backend Developer** (.NET / Spring Boot)  
-🤖 **Building AI Chatbot** 🎮 **AI & Game Dev Enthusiast** 📍 **Vietnam** ---
+🤖 **Building AI Chatbot** 
+🎮 **AI & Game Dev Enthusiast** 
+📍 **Vietnam** ---
 
 ## 🚀 About Me
 - 🎓 **Information Technology Student** & Passionate Developer.
