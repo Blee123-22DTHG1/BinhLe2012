@@ -16,17 +16,20 @@
 ---
 
 ## 🛠 Tech Stack
-- Backend: C# (.NET Core, Entity Framework, Godot), Java (Spring Boot, Spring Security), GDscript(Godot)
+- Backend: C# (.NET Core, EF Core), Java (Spring Boot, Spring Security), Node.js (Express)
+- Game Dev: Godot Engine (GDScript, C#)
 - Databases: SQL Server, MySQL
 - AI & Scripting: Python (Machine Learning, OpenAI API), JavaScript
-- Tools & DevOps: Git/GitHub, Docker, Postman, Maven
-- HTML / CSS / JS
+- Frontend: React, React Native, HTML, CSS.
+- Tools & DevOps: Git/GitHub, Docker, Postman, Maven.
 
 ---
 
 ## 🎯 Current Goals
 - 🔭 Working on AI-powered Chatbot integration for web services.
 - 🎮 Developing a 2D/3D game prototype using C# and GDscript.
+- ✅ Successfully developed a cross-platform Timekeeping System using React Native (Mobile), React (Web), and Node.js (Backend).
+- 🌱 Deepening knowledge in Microservices and Cloud Deployment.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blee123-22DTHG1&show_icons=true&theme=radical)
