@@ -6,7 +6,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-.NET%20%26%20Spring%20Boot-blue?style=flat-square&logo=dotnet" alt="Backend" />
   <img src="https://img.shields.io/badge/AI-Chatbot%20Building-orange?style=flat-square&logo=openai" alt="AI" />
-  <img src="https://img.shields.io/badge/Game_Dev-Godot%20Enthusiast-478CBF?style=flat-square&logo=godot-engine" alt="GameDev" />
+  <img src="https://img.shields.io/badge/Game_Dev-Godot%20Enthusiast-478CBF?style=flat-square&logo=godot-engine" alt="GameDev" /> 
 </p>
 
 💻 **Backend Developer** (.NET / Spring Boot)  
