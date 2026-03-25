@@ -12,7 +12,8 @@
 💻 **Backend Developer** (.NET / Spring Boot)  
 🤖 **Building AI Chatbot** 
 🎮 **AI & Game Dev Enthusiast** 
-📍 **Vietnam** ---
+📍 **Vietnam** 
+---
 
 ## 🚀 About Me
 - 🎓 **Information Technology Student** & Passionate Developer.
