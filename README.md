@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Binh (Le Binh)
+# 👋 Hi, I'm Binh (Le Quoc Binh)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Backend%20+%20Game%20+%20AI&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Banner" />
 </p>
