@@ -10,10 +10,7 @@
 </p>
 
 💻 **Backend Developer** (.NET / Spring Boot)  
-🤖 **Building AI Chatbot** 
-🎮 **AI & Game Dev Enthusiast** 
-📍 **Vietnam** 
----
+🤖 **Building AI Chatbot** 🎮 **AI & Game Dev Enthusiast** 📍 **Vietnam** ---
 
 ## 🚀 About Me
 - 🎓 **Information Technology Student** & Passionate Developer.
@@ -46,7 +43,6 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - 🔧 **Tools & DevOps:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
